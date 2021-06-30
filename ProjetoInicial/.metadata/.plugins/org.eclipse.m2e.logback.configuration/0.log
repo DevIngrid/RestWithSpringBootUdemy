@@ -403,3 +403,41 @@
 2021-06-29 21:21:36,567 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-06-29 21:21:36,569 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-06-29 21:21:36,569 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-29 21:30:50,134 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-29 21:31:47,033 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:31:47,034 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:31:47,041 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-29 21:31:47,105 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:31:47,115 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:31:47,116 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:31:47,116 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-29 21:32:56,202 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:32:56,204 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:32:56,206 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:32:56,206 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:32:56,212 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:32:56,212 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:32:56,212 [Worker-5: Launching rest-with-spring-boot-udemy - calculadora - RestWithSpringBootUdemyApplication (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-29 21:34:35,750 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:34:35,750 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:34:35,754 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-29 21:34:35,768 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:34:35,774 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:34:35,781 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:34:35,781 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-29 21:38:30,962 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:38:30,962 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:38:30,963 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-29 21:38:30,989 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:38:30,993 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:38:30,993 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:38:30,994 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-29 21:42:59,103 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:42:59,103 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:42:59,104 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-29 21:42:59,119 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-29 21:42:59,123 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-29 21:42:59,123 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-29 21:42:59,124 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\ApiRest do zero a AWS - Leandro - Udemy\projetos\UdemySpringBootLeandro\RestWithSpringBootUdemy\ProjetoInicial\rest-with-spring-boot-udemy - calculadora\src\test\resources
+2021-06-30 02:37:55,955 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-30 02:56:00,482 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
