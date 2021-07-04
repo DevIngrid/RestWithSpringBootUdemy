@@ -1,6 +1,6 @@
 package br.com.erudio.util;
 
-import br.com.erudio.exception.UnsuportedMathOperationException;
+import br.com.erudio.exception.ResourceNotFoundException;
 
 public class MathOperation {
 	
@@ -29,7 +29,7 @@ public class MathOperation {
 	
 	public static Double div (Double numberOne, Double numberTwo) {
 	if(numberTwo ==0) {
-		throw new UnsuportedMathOperationException("Favor inserir segundo numero diferente de zero");
+		throw new ResourceNotFoundException("Favor inserir segundo numero diferente de zero");
 	}	
 	return numberOne / numberTwo;
 	}
@@ -45,7 +45,7 @@ public class MathOperation {
 	
 	public static Double raizQ (Double number) {
 		if(number <0) {
-			throw new UnsuportedMathOperationException("Favor inserir numero maior que zero");
+			throw new ResourceNotFoundException("Favor inserir numero maior que zero");
 		}
 		
 		return Math.sqrt(number);
