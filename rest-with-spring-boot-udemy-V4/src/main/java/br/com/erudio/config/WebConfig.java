@@ -11,7 +11,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import br.com.erudio.serialization.converter.YamlJackson2HttpMessageConverter;
 
 @Configuration
-//@EnableWebMvc
 public class WebConfig implements WebMvcConfigurer{
 	
 	private static final MediaType MEDIA_TYPE_YML = MediaType.valueOf("application/x-yml");
@@ -42,7 +41,7 @@ public class WebConfig implements WebMvcConfigurer{
 		*/
 		
 		//via Header -- até agora só este deu certo no sts
-		//na verdade, funcionou usando o Header sem ter que usar estas configurações.
+		//na verdade, para o xml funcionou usando o Header sem ter que usar estas configurações.
 		configurer.favorParameter(false)
 		.ignoreAcceptHeader(false)
 		.useRegisteredExtensionsOnly(false)
