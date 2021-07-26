@@ -16,11 +16,5 @@ public class Startup {
 		String result = bCryptPasswordEncoder.encode("7771777");
 		System.out.println("Minha senha " + result);
 	}
-	
-	/*@Bean
-	public UserServices userServices() {
-		UserServices userServices = new UserServices();
-		return userServices;
-	}*/
 
 }

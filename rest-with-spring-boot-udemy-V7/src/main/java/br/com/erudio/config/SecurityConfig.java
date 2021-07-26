@@ -27,7 +27,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter{
 	@Override
 	public AuthenticationManager authenticationManagerBean() throws Exception {
 		return super.authenticationManagerBean();
-	}*/
+	}=> no meu isto não funcionou*/
 	
 	//@Override => usar ou não não fez diferença
 	protected void configure(HttpSecurity http) throws Exception {
